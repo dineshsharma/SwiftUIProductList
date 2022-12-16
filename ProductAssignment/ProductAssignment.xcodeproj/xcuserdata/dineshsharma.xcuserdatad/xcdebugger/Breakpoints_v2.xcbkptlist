@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94541A7E-D17B-43CB-BCF8-4754D027B6D4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FC17FEA-827C-4AAE-AF7F-9C7399A2A349"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductAssignmentTests/ProductListViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "testFetuchProductListAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FC17FEA-827C-4AAE-AF7F-9C7399A2A349 - ad4a0368a0702b5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductAssignmentTests.ProductListViewModelTest.testFetuchProductListAPI() -&gt; ()"
+                  moduleName = "ProductAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dineshsharma/Documents/ProductAssignment/ProductAssignmentTests/ProductListViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "209">
+               </Location>
+               <Location
+                  uuid = "9FC17FEA-827C-4AAE-AF7F-9C7399A2A349 - ad4a0368a0702bb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductAssignmentTests.ProductListViewModelTest.testFetuchProductListAPI() -&gt; ()"
+                  moduleName = "ProductAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dineshsharma/Documents/ProductAssignment/ProductAssignmentTests/ProductListViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "269">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26383532-27CE-47CF-BF89-5AAF58A1F5A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductAssignmentTests/ProductListViewModelTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "testFetuchProductListAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26383532-27CE-47CF-BF89-5AAF58A1F5A4 - ad4a0368a0702b3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductAssignmentTests.ProductListViewModelTest.testFetuchProductListAPI() -&gt; ()"
+                  moduleName = "ProductAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dineshsharma/Documents/ProductAssignment/ProductAssignmentTests/ProductListViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "26383532-27CE-47CF-BF89-5AAF58A1F5A4 - ad4a0368a0702b3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductAssignmentTests.ProductListViewModelTest.testFetuchProductListAPI() -&gt; ()"
+                  moduleName = "ProductAssignmentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dineshsharma/Documents/ProductAssignment/ProductAssignmentTests/ProductListViewModelTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "205">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
